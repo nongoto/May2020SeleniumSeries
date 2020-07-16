@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-06-15T15:17:58 CDT" name="Default suite" finished-at="2020-06-15T15:18:08 CDT" duration-ms="9272">
+    <groups>
+    </groups>
+    <test started-at="2020-06-15T15:17:58 CDT" name="Default test" finished-at="2020-06-15T15:18:08 CDT" duration-ms="9272">
+      <class name="com.brokenlinks.BrokenLinksTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.brokenlinks.BrokenLinksTest@d4342c2]" started-at="2020-06-15T15:17:58 CDT" name="setUp" finished-at="2020-06-15T15:18:07 CDT" duration-ms="8803" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="countBrokenLinks()[pri:0, instance:com.brokenlinks.BrokenLinksTest@d4342c2]" started-at="2020-06-15T15:18:07 CDT" name="countBrokenLinks" finished-at="2020-06-15T15:18:08 CDT" duration-ms="407" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- countBrokenLinks -->
+      </class> <!-- com.brokenlinks.BrokenLinksTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
